@@ -1,6 +1,6 @@
 # Repository Template
 
-This repository is a general template for new repositories as part of USA for UNHCR Hive. The repository does need to include all items in this template and will likely additional items, but must include a README file, [license](LICENSE), [code of conduct](CODE_OF_CONDUCT) and [contributing guide](CONTRIBUTING.md).
+This repository is a general template for new repositories as part of USA for UNHCR Hive. The repository does need to include all items in this template and will likely have additional items, but must include a README file, [license](LICENSE), [code of conduct](CODE_OF_CONDUCT) and [contributing guide](CONTRIBUTING.md).
 
 # Example README
 
