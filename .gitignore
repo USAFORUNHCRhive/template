@@ -1,2 +1,21 @@
-#exclude files
+#exclude file examples
+
+# Environments
 *.env
+*.venv
+
+# MacOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# vim
+*.swp
+
+# data
+*.csv
+*.xls
+*.xlsx
+*.pkl
+*.gz

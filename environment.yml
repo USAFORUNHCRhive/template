@@ -1,1 +1,2 @@
-# This should contain environment information for the template. Alternatively, you can use a requirements.txt file.
+# This should contain conda environment information for the template.
+# When using only Python packages we tend to use Pipenv for managing project dependencies and environments.

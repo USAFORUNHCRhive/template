@@ -8,7 +8,7 @@ Hi! We're delighted that you'd like to contribute. Please note that this project
 
 ## Issues and PRs
 
-If you have suggestions or want to report a bug, please [open an issue](https://github.com/<repo>/<title>/issues/new). If you have questions, please reach out to the Project Maintainer or hive@unrefugees.org.
+If you have suggestions or want to report a bug, please [open an issue](https://github.com/USAFORUNHCRhive/template/issues/new). If you have questions, please reach out to the Project Maintainer or hive@unrefugees.org.
 
 We also welcome PRs. See some steps below for how best to do so.
 
