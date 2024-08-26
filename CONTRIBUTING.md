@@ -10,13 +10,13 @@ We also welcome PRs. See some steps below for how best to do so.
 
 ## Submitting a pull request
 
-1. [Fork][https://github.com/USAFORUNHCRhive/template/fork] and clone the repository.
+1. [Fork](https://github.com/USAFORUNHCRhive/template/fork) and clone the repository.
 1. Create and activate environment using the environment file
 1. Use any config files and an .env file for easier script execution.
 1. Create a new branch: `git checkout -b my-branch-name`.
 1. Make your changes
 1. (If applicable) Add tests and make sure the tests still pass.
-1. Push to your fork and [submit a pull request][https://github.com/USAFORUNHCRhive/template/compare].
+1. Push to your fork and [submit a pull request](https://github.com/USAFORUNHCRhive/template/compare).
 1. Wait for your pull request to be reviewed and merged.
 
 Here are a few things that will increase the chances of a pull request being accepted:
